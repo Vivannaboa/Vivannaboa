@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at :rocket: [SellersFunding Corp.](https://sellersfunding.com/) as DevOps Excellence Coordinator / DA Tech Lead.
+- 🔭 I’m currently working at :rocket: [SellersFunding Corp.](https://sellersfunding.com/) as DevOps Manager.
 - :computer: :coffee: I'm an expert in .NET, native cloud apps
 
 #### My languages
