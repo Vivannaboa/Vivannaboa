@@ -5,6 +5,49 @@ Here something about me:
 - 🔭 I’m currently working at :rocket: [SellersFunding Corp.](https://sellersfunding.com/) as DevOps Manager.
 - :computer: :coffee: I'm an expert in .NET, native cloud apps
 
+## 💼 What I Do
+
+I'm Marivaldo Vivan, a DevOps specialist with over 18 years of experience in IT. I provide services focused on infrastructure automation, CI/CD pipeline implementation and optimization, monitoring, security, and scalable cloud-based software development. My work combines deep technical expertise with a strategic mindset to deliver real business value.
+
+---
+
+## 🚀 How I Can Help Your Company
+
+- Automation of manual and operational processes  
+- Structuring or modernizing CI/CD pipelines  
+- Cost reduction through cloud resource optimization  
+- Infrastructure as Code (IaC) implementation  
+- System monitoring with intelligent dashboards and alerts  
+- Enhanced security with automated validations and vulnerability scanning  
+- Backend, API, and full-solution development  
+
+---
+
+## 🧰 Technologies I Work With
+
+- **Cloud & IaC:** Azure, Terraform, Docker, Kubernetes  
+- **CI/CD:** GitLab CI/CD, GitHub Actions, Azure DevOps  
+- **Dev & Backend:** C#/.NET, Python, Node.js  
+- **Mobile & Frontend:** Flutter, JavaScript  
+- **Databases:** SQL Server, PostgreSQL  
+- **Observability & Security:** Grafana, Prometheus, Advanced Security, Veracode  
+- **Methodologies:** Scrum, Kanban, Continuous Delivery  
+
+---
+
+## 📈 Results I've Delivered
+
+- Reduced **deployment time by 30%** through optimized pipelines  
+- Achieved **over 25% in cloud cost savings** with infrastructure reengineering  
+- Led successful **cloud migration to Azure** with improved scalability and resilience  
+- Built **real-time monitoring dashboards** for enhanced operational visibility  
+
+---
+
+## 🤝 Let’s Work Together
+
+If you’re looking for a technical partner to improve your DevOps maturity, automate critical processes, or build custom cloud-native solutions, let’s connect. I’m available for 100% remote projects, with flexibility across time zones and a strong focus on results.
+
 #### My languages
  - Portugues-BR (Native)
  - English (Intermediary)
