@@ -37,7 +37,7 @@ I'm Marivaldo Vivan, a DevOps specialist with over 18 years of experience in IT.
 
 ## 📈 Results I've Delivered
 
-- Reduced **deployment time by 30%** through optimized pipelines  
+- Reduced **deployment time by 60%** through optimized pipelines  
 - Achieved **over 25% in cloud cost savings** with infrastructure reengineering  
 - Led successful **cloud migration to Azure** with improved scalability and resilience  
 - Built **real-time monitoring dashboards** for enhanced operational visibility  
